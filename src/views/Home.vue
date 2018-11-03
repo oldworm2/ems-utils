@@ -3,7 +3,7 @@
     <v-slide-y-transition mode="out-in">
       <v-layout row wrap align-center>
 
-        <v-flex xs4>
+        <v-flex >
           <v-card class="ma-2">
 
             <v-card-title primary-title>
@@ -21,7 +21,7 @@
         </v-flex>
       
 
-        <v-flex xs4>
+        <v-flex >
           <v-card class="ma-2">
 
             <v-card-title primary-title>
@@ -38,7 +38,7 @@
           </v-card>
         </v-flex>
 
-        <v-flex xs4>
+        <v-flex >
           <v-card class="ma-2">
 
             <v-card-title primary-title>
